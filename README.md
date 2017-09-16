@@ -46,4 +46,4 @@ Files are identical!
 ```
 
 # Blog post
-To learn more, read the blog post here: http://davinchoo.com/2016/05/26/threshold-secret-sharing-schemes/
+To learn more, read the blog post here: http://davinchoo.com/post/thresholdsecretsharing/
